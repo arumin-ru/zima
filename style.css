@@ -1,0 +1,21 @@
+.centred { position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);}
+.tint {opacity: 40%;
+ position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+input.test1 {
+background-color: rgb(209, 255, 255); 
+
+}
+input.test2 {
+background-color: rgb(17, 128, 255); 
+}
+.test2 {font-size: 50px;}
+.test2 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.test2 {color: rgb(0, 28, 110);}
+.test2 {text-align: right;}
